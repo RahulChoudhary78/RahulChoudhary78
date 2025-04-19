@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Himanshu Raj</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
+<h3 align="center">A passionate full stack web developer & data science engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-vk01&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-vk01" /> </p>
 
